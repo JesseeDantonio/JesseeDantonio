@@ -10,7 +10,8 @@ Je suis **développeur** et ingénieur en informatique, plusieurs fois diplômé
 - 🛠️ Passionné par l’architecture logicielle, l’optimisation et l’IA
 - 📍 Basé à Roanne
 - 📢 Ouvert aux collaborations et nouveaux projets
-- 💼 Fondateur et dirigeant de Nostanode (www.nostanode.fr)
+- 🏢 Fondateur et dirigeant de Nostanode (www.nostanode.fr)
+- 💼 **En poste chez [ASTI](https://www.texaswin.fr/)**, où je travaille sur un module nommé TexasLog.
 
 ## 🛠️ Compétences principales
 
