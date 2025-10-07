@@ -18,7 +18,7 @@ Je suis **développeur** et ingénieur en informatique, plusieurs fois diplômé
 - **Frameworks** : [Vue, Angular, Node.js, Spring, Nuxt]
 - **OS** : [Windows, Linux]
 - **DevOps & Cloud** : [Docker, Fail2Ban, UFW, SSH]
-- **Bases de données** : [MySQL, MariaDB, PostgreSQL, MongoDB, SQLite]
+- **Bases de données** : [MySQL, MariaDB, PostgreSQL, MongoDB, SQLite, HFSQL]
 
 ## 📂 Projets récents
 
