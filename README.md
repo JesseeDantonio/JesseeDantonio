@@ -38,4 +38,5 @@ Voici quelques-uns de mes projets open source :
 
 ---
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=jesseedantonio.jesseedantonio&"/>
 Merci de ta visite ! 🚀
