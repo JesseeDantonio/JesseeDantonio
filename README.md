@@ -5,7 +5,7 @@ Je suis **développeur** et ingénieur en informatique, plusieurs fois diplômé
 
 ## 🚀 À propos de moi
 
-- 🎓 Ingénieur informatique avec plusieurs diplômes
+- 🎓 Ingénieur informatique
 - 💻 Développement logiciel, web & mobile, jeux vidéo
 - 🛠️ Passionné par l’architecture logicielle, l’optimisation et l’IA
 - 📍 Basé à Roanne
@@ -14,7 +14,7 @@ Je suis **développeur** et ingénieur en informatique, plusieurs fois diplômé
 
 ## 🛠️ Compétences principales
 
-- **Langages** : [Python, Java, Kotlin, SQL, JS, TS, HTML, CSS, C#, WLangage, C, Dockerfile]
+- **Langages** : [Python, PHP, Java, Kotlin, SQL, JS, TS, HTML, CSS, C#, WLangage, C, Dockerfile]
 - **Frameworks** : [Vue, Angular, Node.js, Spring, Nuxt]
 - **OS** : [Windows, Linux]
 - **DevOps & Cloud** : [Docker, Fail2Ban, UFW, SSH]
