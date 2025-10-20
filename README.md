@@ -32,9 +32,9 @@ Voici quelques-uns de mes projets open source :
 
 ## 📫 Me contacter
 
-- [Email](dyland.antonio1998@gmail.com)
+- [Email](mailto: » dyland.antonio1998@gmail.com)
 - [LinkedIn](https://fr.linkedin.com/in/dylan-d-antonio-17b460229)
-- [Portfolio](www.nostanode.fr)
+- [Portfolio](https://www.nostanode.fr)
 
 ---
 
