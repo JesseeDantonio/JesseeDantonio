@@ -3,6 +3,12 @@
 Bienvenue sur mon GitHub !  
 Je suis **développeur** et ingénieur en informatique, plusieurs fois diplômé, passionné par la création de solutions innovantes et l’exploration de nouvelles technologies.
 
+<br></br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesseeDantonio&theme=tokyonight" alt="Statistiques de contributions" />
+</p>
+<br></br>
+
 ## 🚀 À propos de moi
 
 - 🎓 Ingénieur informatique
