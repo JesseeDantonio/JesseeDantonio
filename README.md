@@ -30,7 +30,7 @@ Je suis **développeur** et ingénieur en informatique, plusieurs fois diplômé
 
 Voici quelques-uns de mes projets open source :
 - [Olympic](https://github.com/JesseeDantonio/Developpez-le-front-end-en-utilisant-Angular) — Ce projet a pour objectif de valider le deuxième projet chez OpenClassrooms.
-- [Nostanode](https://github.com/JesseeDantonio/classic-web) — Site de l'entreprise
+- [ChaTop API]([https://github.com/JesseeDantonio/classic-web](https://github.com/JesseeDantonio/Chatop-API-Backend)) — Ce projet a pour objectif de valider le troisième projet chez OpenClassrooms.
 - [BlockQuota](https://github.com/JesseeDantonio/BlockQuota) — Un plugin Minecraft Spigot pour limiter le minage de blocs par joueur sur votre serveur.
 
 *N’hésite pas à explorer mes dépôts pour en savoir plus !*
